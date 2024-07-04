@@ -1,0 +1,4 @@
+id,poll,option1,option2,option3,votes1,votes2,votes3
+1,Hello world,A,B,C,100,200,300
+2,Hello world,D,E,F,190,20,354
+3,Poll New,Python,C++,Java,7,1,1
